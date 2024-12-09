@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  height: 100vh;
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  font-size: 60px;
+  color: black;
+  border: 2px solid white;
+  padding: 10px 40px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px black;
+  background-color: rgb(192, 192, 9);
+}
